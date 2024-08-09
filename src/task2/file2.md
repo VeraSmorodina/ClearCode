@@ -1,4 +1,4 @@
-##Задание 2
+## Задание 2
 ```java
 salary1 - salaryArrayCloned (salary_array_cloned)
 //массив из клонированных значений массива зарплат
