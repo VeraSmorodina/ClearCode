@@ -44,11 +44,15 @@ for(int manIndex=0;manIndex<manArray.length;manIndex++){
 
 **7.4**
 
-evenNumber - notEvenNumber positiveNumberCount - notPositiveNumberCount
+evenNumber - notEvenNumber
+
+positiveNumberCount - notPositiveNumberCount
 
 **7.5**
 
-temp - isTemperatureWithinRange x - sumAllNumbers
+temp - isTemperatureWithinRange
+
+x - sumAllNumbers
 
 
 
